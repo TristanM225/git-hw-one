@@ -5,6 +5,9 @@
 - We condensed code to make it easier to understand
 - We also formatted the code to be in a logical order
 
+## Screenshot
+Screenshot of Webpage (./assets/images/Website.PNG)
+
 ## Setup 
 N/A
 
