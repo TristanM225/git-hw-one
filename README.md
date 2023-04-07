@@ -6,7 +6,7 @@
 - We also formatted the code to be in a logical order
 
 ## Screenshot
-Screenshot of Webpage (./assets/images/Website.PNG)
+![Screenshot of Webpage](./assets/images/Website.PNG)
 
 ## Setup 
 N/A
